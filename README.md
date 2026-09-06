@@ -5,7 +5,7 @@ A simple and user-friendly BMI (Body Mass Index) Calculator built using HTML5, C
 ## 🔗 Project Links
 
 - **GitHub Repository:** [View on GitHub](https://github.com/kashyapunnati/BMI-Calculator-.git)
-- **Live Demo:** [Open Live Website](YOUR_LIVE_LINK)
+- **Live Demo:** [Open Live Website](https://kashyapunnati.github.io/BMI-Calculator-/)
 
 ## ✨ Features
 
